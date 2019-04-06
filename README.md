@@ -1,1 +1,1 @@
-# Exercism PHP 
+# Exercism PHP
